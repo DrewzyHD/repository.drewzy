@@ -24,7 +24,7 @@
         <description>Official Drewzy Repo</description>
     </extension>
 </addon>
-<addon id="plugin.program.drewzywiz" name="Drewzy Wizard" version="1.0" provider-name="Drewzy">
+<addon id="plugin.program.drewzywiz" name="Drewzy Wizard" version="1.1" provider-name="Drewzy">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -34,7 +34,7 @@
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Drewzy Wizard</summary>
-    <description lang="en">Drewzy Wizard allows you to get access to the latest DREWZY Builds.</description>
+    <description lang="en">Drewzy Wizard allows you to get access to the latest Drewzy Builds!.</description>
     <platform>all</platform>
   </extension>
 </addon>
