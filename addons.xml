@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="repository.drewzy" name="DrewzyMod Repository" version="0.0.1" provider-name="Drewzy">
+    <extension point="xbmc.addon.repository" name="Tikipeter's Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/DrewzyHD/repository.drewzy/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/DrewzyHD/repository.drewzy/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/DrewzyHD/repository.drewzy/master/zip</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Drewzymod Repository</summary>
+        <description>Unofficial add-ons repository</description>
+    </extension>
+</addon>
+</addons>
