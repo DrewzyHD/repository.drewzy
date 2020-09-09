@@ -24,7 +24,7 @@
         <description>Official Drewzy Repo</description>
     </extension>
 </addon>
-<addon id="plugin.program.drewzywiz" name="Drewzy Wizard" version="1.1" provider-name="Drewzy">
+<addon id="plugin.program.drewzywiz" name="Drewzy Wizard" version="1.2" provider-name="Drewzy">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
