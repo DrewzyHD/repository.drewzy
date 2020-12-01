@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.drewzy" name="Drewzy Repository" version="1.0" provider-name="Drewzy">
+<addon id="repository.drewzy" name="[COLOR indigo]Drewzy[/COLOR] Repository" version="1.0" provider-name="Drewzy">
     <extension point="xbmc.addon.repository" name="Drewzy Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/DrewzyHD/repository.drewzy/master/addons.xml</info>
